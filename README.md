@@ -10,7 +10,6 @@ Pour un guide complet sur la manière de configurer et d'utiliser GitHub Actions
 
 - Exemples de fichiers de workflow pour Rust
 - Meilleures pratiques pour l'intégration continue (CI) et la livraison continue (CD)
-- ... (tout autre élément que vous souhaitez ajouter)
 
 ## Contribution
 
